@@ -1,0 +1,14 @@
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP LB1.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP_LB1.Properties.Resources.resources
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP LB1.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP LB1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP_LB1.AuthorForm.resources
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP_LB1.BookForm.resources
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP_LB1.LoanForm.resources
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP_LB1.MainForm.resources
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP_LB1.VisitorForm.resources
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\bin\Debug\KRiuPP LB1.exe.config
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\bin\Debug\KRiuPP LB1.exe
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\bin\Debug\KRiuPP LB1.pdb
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP LB1.exe
+C:\Users\Михаил\Desktop\3 Курс\КРиУПП\KRiuPP LB1\KRiuPP LB1\obj\Debug\KRiuPP LB1.pdb
