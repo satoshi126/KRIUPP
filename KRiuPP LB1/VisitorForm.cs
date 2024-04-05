@@ -50,7 +50,7 @@ namespace KRiuPP_LB1
 
         public void ReadSingleRow(DataGridView dgw, IDataRecord record)
         {
-            dgw.Rows.Add(record.GetInt64(0), record.GetString(1), record.GetString(2), record.GetString(3), record.GetString(4), RowState.ModifiedNew);
+            dgw.Rows.Add(record.GetInt32(0), record.GetString(1), record.GetString(2), record.GetString(3), record.GetString(4), RowState.ModifiedNew);
             dataGridView.AllowUserToAddRows = false;
         }
 
@@ -192,7 +192,6 @@ namespace KRiuPP_LB1
         {
 
         }
-
 
         public DataTable queryReturnData(string query, DataTable dataTable)
         {
