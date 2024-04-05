@@ -30,6 +30,8 @@
         {
             this.refresh_button = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
@@ -45,8 +47,6 @@
             this.delete_button = new System.Windows.Forms.Button();
             this.add_button = new System.Windows.Forms.Button();
             this.dataGridView = new System.Windows.Forms.DataGridView();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
             this.SuspendLayout();
@@ -54,9 +54,9 @@
             // refresh_button
             // 
             this.refresh_button.BackColor = System.Drawing.SystemColors.Control;
-            this.refresh_button.Location = new System.Drawing.Point(591, 312);
+            this.refresh_button.Location = new System.Drawing.Point(608, 312);
             this.refresh_button.Name = "refresh_button";
-            this.refresh_button.Size = new System.Drawing.Size(172, 32);
+            this.refresh_button.Size = new System.Drawing.Size(158, 32);
             this.refresh_button.TabIndex = 27;
             this.refresh_button.Text = "Обновить";
             this.refresh_button.UseVisualStyleBackColor = false;
@@ -77,12 +77,30 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(278, 341);
+            this.groupBox1.Location = new System.Drawing.Point(295, 341);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(485, 218);
+            this.groupBox1.Size = new System.Drawing.Size(471, 218);
             this.groupBox1.TabIndex = 26;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Запись";
+            // 
+            // textBox6
+            // 
+            this.textBox6.Font = new System.Drawing.Font("Microsoft PhagsPa", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox6.Location = new System.Drawing.Point(201, 183);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(254, 27);
+            this.textBox6.TabIndex = 12;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(88, 184);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(57, 22);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "Status";
             // 
             // textBox5
             // 
@@ -177,7 +195,7 @@
             // save_button
             // 
             this.save_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.save_button.Location = new System.Drawing.Point(4, 504);
+            this.save_button.Location = new System.Drawing.Point(21, 504);
             this.save_button.Name = "save_button";
             this.save_button.Size = new System.Drawing.Size(236, 42);
             this.save_button.TabIndex = 25;
@@ -188,7 +206,7 @@
             // change_button
             // 
             this.change_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.change_button.Location = new System.Drawing.Point(4, 445);
+            this.change_button.Location = new System.Drawing.Point(21, 445);
             this.change_button.Name = "change_button";
             this.change_button.Size = new System.Drawing.Size(236, 42);
             this.change_button.TabIndex = 24;
@@ -199,7 +217,7 @@
             // delete_button
             // 
             this.delete_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.delete_button.Location = new System.Drawing.Point(4, 386);
+            this.delete_button.Location = new System.Drawing.Point(21, 386);
             this.delete_button.Name = "delete_button";
             this.delete_button.Size = new System.Drawing.Size(236, 42);
             this.delete_button.TabIndex = 23;
@@ -210,7 +228,7 @@
             // add_button
             // 
             this.add_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.add_button.Location = new System.Drawing.Point(4, 325);
+            this.add_button.Location = new System.Drawing.Point(21, 325);
             this.add_button.Name = "add_button";
             this.add_button.Size = new System.Drawing.Size(236, 43);
             this.add_button.TabIndex = 22;
@@ -221,36 +239,19 @@
             // dataGridView
             // 
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView.Location = new System.Drawing.Point(4, 14);
+            this.dataGridView.Location = new System.Drawing.Point(21, 14);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowHeadersWidth = 51;
             this.dataGridView.RowTemplate.Height = 24;
-            this.dataGridView.Size = new System.Drawing.Size(759, 292);
+            this.dataGridView.Size = new System.Drawing.Size(745, 292);
             this.dataGridView.TabIndex = 21;
             this.dataGridView.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_CellClick_1);
-            // 
-            // textBox6
-            // 
-            this.textBox6.Font = new System.Drawing.Font("Microsoft PhagsPa", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox6.Location = new System.Drawing.Point(201, 183);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(254, 27);
-            this.textBox6.TabIndex = 12;
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(88, 184);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(57, 22);
-            this.label6.TabIndex = 11;
-            this.label6.Text = "Status";
             // 
             // LoanForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(767, 560);
             this.Controls.Add(this.refresh_button);
             this.Controls.Add(this.groupBox1);

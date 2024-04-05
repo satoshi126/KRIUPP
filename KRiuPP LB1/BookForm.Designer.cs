@@ -50,7 +50,7 @@
             // refresh_button
             // 
             this.refresh_button.BackColor = System.Drawing.SystemColors.Control;
-            this.refresh_button.Location = new System.Drawing.Point(589, 293);
+            this.refresh_button.Location = new System.Drawing.Point(599, 310);
             this.refresh_button.Name = "refresh_button";
             this.refresh_button.Size = new System.Drawing.Size(172, 32);
             this.refresh_button.TabIndex = 34;
@@ -69,7 +69,7 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(276, 318);
+            this.groupBox1.Location = new System.Drawing.Point(286, 335);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(485, 205);
             this.groupBox1.TabIndex = 33;
@@ -151,7 +151,7 @@
             // save_button
             // 
             this.save_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.save_button.Location = new System.Drawing.Point(2, 481);
+            this.save_button.Location = new System.Drawing.Point(12, 498);
             this.save_button.Name = "save_button";
             this.save_button.Size = new System.Drawing.Size(236, 42);
             this.save_button.TabIndex = 32;
@@ -162,7 +162,7 @@
             // change_button
             // 
             this.change_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.change_button.Location = new System.Drawing.Point(2, 422);
+            this.change_button.Location = new System.Drawing.Point(12, 439);
             this.change_button.Name = "change_button";
             this.change_button.Size = new System.Drawing.Size(236, 42);
             this.change_button.TabIndex = 31;
@@ -173,7 +173,7 @@
             // delete_button
             // 
             this.delete_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.delete_button.Location = new System.Drawing.Point(2, 363);
+            this.delete_button.Location = new System.Drawing.Point(12, 380);
             this.delete_button.Name = "delete_button";
             this.delete_button.Size = new System.Drawing.Size(236, 42);
             this.delete_button.TabIndex = 30;
@@ -184,7 +184,7 @@
             // add_button
             // 
             this.add_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.add_button.Location = new System.Drawing.Point(2, 302);
+            this.add_button.Location = new System.Drawing.Point(12, 319);
             this.add_button.Name = "add_button";
             this.add_button.Size = new System.Drawing.Size(236, 43);
             this.add_button.TabIndex = 29;
@@ -194,7 +194,7 @@
             // dataGridView
             // 
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView.Location = new System.Drawing.Point(2, -5);
+            this.dataGridView.Location = new System.Drawing.Point(12, 12);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowHeadersWidth = 51;
             this.dataGridView.RowTemplate.Height = 24;
@@ -206,7 +206,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(762, 523);
+            this.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.ClientSize = new System.Drawing.Size(767, 560);
             this.Controls.Add(this.refresh_button);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.save_button);

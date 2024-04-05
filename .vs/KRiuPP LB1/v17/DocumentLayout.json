@@ -3,35 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\authorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\authorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\authorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\authorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\authorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\authorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\3 \u043A\u0443\u0440\u0441\\\u043A\u0440\u0438\u0443\u043F\u043F\\kriupp lb1\\kriupp lb1\\visitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\visitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\visitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,8 +27,16 @@
       "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\visitorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|solutionrelative:kriupp lb1\\loanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35C30D7C-5E48-4127-9E3E-E6AA9A17F249}|KRiuPP LB1\\KRiuPP LB1.csproj|C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\kriupp lb1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -83,33 +79,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisitorForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\VisitorForm.cs",
+              "RelativeDocumentMoniker": "KRiuPP LB1\\VisitorForm.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\VisitorForm.cs",
+              "RelativeToolTip": "KRiuPP LB1\\VisitorForm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwDEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T05:48:17.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.Designer.cs",
-              "RelativeDocumentMoniker": "KRiuPP LB1\\BookForm.Designer.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.Designer.cs",
-              "RelativeToolTip": "KRiuPP LB1\\BookForm.Designer.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAL8AAAA7AAAA",
+              "Title": "AuthorForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\AuthorForm.cs",
+              "RelativeDocumentMoniker": "KRiuPP LB1\\AuthorForm.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\AuthorForm.cs",
+              "RelativeToolTip": "KRiuPP LB1\\AuthorForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwCgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:46:55.786Z",
+              "WhenOpened": "2024-04-02T16:41:45.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookForm.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.cs",
-              "RelativeDocumentMoniker": "KRiuPP LB1\\BookForm.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.cs",
-              "RelativeToolTip": "KRiuPP LB1\\BookForm.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAswMMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:31:08.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "BookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\BookForm.cs",
@@ -121,20 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoanForm.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\LoanForm.cs",
-              "RelativeDocumentMoniker": "KRiuPP LB1\\LoanForm.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\LoanForm.cs",
-              "RelativeToolTip": "KRiuPP LB1\\LoanForm.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAALIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T17:07:08.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "LoanForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\LoanForm.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\LoanForm.cs",
@@ -146,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthorForm.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\AuthorForm.cs",
-              "RelativeDocumentMoniker": "KRiuPP LB1\\AuthorForm.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\AuthorForm.cs",
-              "RelativeToolTip": "KRiuPP LB1\\AuthorForm.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAlwEYAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.cs",
+              "RelativeDocumentMoniker": "KRiuPP LB1\\BookForm.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\BookForm.cs",
+              "RelativeToolTip": "KRiuPP LB1\\BookForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAhwCsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T16:41:45.569Z",
+              "WhenOpened": "2024-04-02T17:31:08.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "VisitorForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\VisitorForm.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\VisitorForm.cs",
@@ -171,33 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VisitorForm.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\VisitorForm.cs",
-              "RelativeDocumentMoniker": "KRiuPP LB1\\VisitorForm.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\VisitorForm.cs",
-              "RelativeToolTip": "KRiuPP LB1\\VisitorForm.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwB0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T05:48:17.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\DataBase.cs",
-              "RelativeDocumentMoniker": "KRiuPP LB1\\DataBase.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\DataBase.cs",
-              "RelativeToolTip": "KRiuPP LB1\\DataBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-24T09:44:17.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\MainForm.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\MainForm.cs",
@@ -209,7 +166,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "LoanForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\LoanForm.cs",
+              "RelativeDocumentMoniker": "KRiuPP LB1\\LoanForm.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\LoanForm.cs",
+              "RelativeToolTip": "KRiuPP LB1\\LoanForm.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAlwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:07:08.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\DataBase.cs",
+              "RelativeDocumentMoniker": "KRiuPP LB1\\DataBase.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\DataBase.cs",
+              "RelativeToolTip": "KRiuPP LB1\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:44:17.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\Program.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\Program.cs",
@@ -217,12 +199,11 @@
               "RelativeToolTip": "KRiuPP LB1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T13:57:45.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T13:57:45.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\MainForm.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\MainForm.cs",
@@ -235,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\3 \u041A\u0443\u0440\u0441\\\u041A\u0420\u0438\u0423\u041F\u041F\\KRiuPP LB1\\KRiuPP LB1\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "KRiuPP LB1\\MainForm.Designer.cs",

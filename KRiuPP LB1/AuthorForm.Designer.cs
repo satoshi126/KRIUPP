@@ -30,10 +30,12 @@
         {
             this.refresh_button = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -43,8 +45,6 @@
             this.delete_button = new System.Windows.Forms.Button();
             this.add_button = new System.Windows.Forms.Button();
             this.dataGridView = new System.Windows.Forms.DataGridView();
-            this.label5 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
             this.SuspendLayout();
@@ -52,7 +52,7 @@
             // refresh_button
             // 
             this.refresh_button.BackColor = System.Drawing.SystemColors.Control;
-            this.refresh_button.Location = new System.Drawing.Point(589, 293);
+            this.refresh_button.Location = new System.Drawing.Point(599, 310);
             this.refresh_button.Name = "refresh_button";
             this.refresh_button.Size = new System.Drawing.Size(172, 32);
             this.refresh_button.TabIndex = 27;
@@ -72,12 +72,20 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(276, 322);
+            this.groupBox1.Location = new System.Drawing.Point(286, 339);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(485, 205);
+            this.groupBox1.Size = new System.Drawing.Size(485, 215);
             this.groupBox1.TabIndex = 26;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Запись";
+            // 
+            // textBox5
+            // 
+            this.textBox5.Font = new System.Drawing.Font("Microsoft PhagsPa", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox5.Location = new System.Drawing.Point(203, 169);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(254, 27);
+            this.textBox5.TabIndex = 10;
             // 
             // textBox4
             // 
@@ -110,6 +118,16 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(254, 27);
             this.textBox1.TabIndex = 6;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(98, 170);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(51, 22);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Email";
             // 
             // label4
             // 
@@ -154,7 +172,7 @@
             // save_button
             // 
             this.save_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.save_button.Location = new System.Drawing.Point(2, 485);
+            this.save_button.Location = new System.Drawing.Point(12, 512);
             this.save_button.Name = "save_button";
             this.save_button.Size = new System.Drawing.Size(236, 42);
             this.save_button.TabIndex = 25;
@@ -165,7 +183,7 @@
             // change_button
             // 
             this.change_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.change_button.Location = new System.Drawing.Point(2, 426);
+            this.change_button.Location = new System.Drawing.Point(12, 453);
             this.change_button.Name = "change_button";
             this.change_button.Size = new System.Drawing.Size(236, 42);
             this.change_button.TabIndex = 24;
@@ -176,7 +194,7 @@
             // delete_button
             // 
             this.delete_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.delete_button.Location = new System.Drawing.Point(2, 367);
+            this.delete_button.Location = new System.Drawing.Point(12, 394);
             this.delete_button.Name = "delete_button";
             this.delete_button.Size = new System.Drawing.Size(236, 42);
             this.delete_button.TabIndex = 23;
@@ -187,7 +205,7 @@
             // add_button
             // 
             this.add_button.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.add_button.Location = new System.Drawing.Point(2, 306);
+            this.add_button.Location = new System.Drawing.Point(12, 333);
             this.add_button.Name = "add_button";
             this.add_button.Size = new System.Drawing.Size(236, 43);
             this.add_button.TabIndex = 22;
@@ -198,35 +216,18 @@
             // dataGridView
             // 
             this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView.Location = new System.Drawing.Point(2, -5);
+            this.dataGridView.Location = new System.Drawing.Point(12, 12);
             this.dataGridView.Name = "dataGridView";
             this.dataGridView.RowHeadersWidth = 51;
             this.dataGridView.RowTemplate.Height = 24;
             this.dataGridView.Size = new System.Drawing.Size(759, 292);
             this.dataGridView.TabIndex = 21;
             // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft PhagsPa", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(98, 170);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(51, 22);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Email";
-            // 
-            // textBox5
-            // 
-            this.textBox5.Font = new System.Drawing.Font("Microsoft PhagsPa", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox5.Location = new System.Drawing.Point(203, 169);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(254, 27);
-            this.textBox5.TabIndex = 10;
-            // 
             // AuthorForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(768, 537);
             this.Controls.Add(this.refresh_button);
             this.Controls.Add(this.groupBox1);

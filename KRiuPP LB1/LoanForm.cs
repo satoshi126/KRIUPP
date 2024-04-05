@@ -40,6 +40,10 @@ namespace KRiuPP_LB1
             dataGridView.Columns.Add("IsNew", String.Empty);
 
             dataGridView.Columns[6].Visible = false;
+            dataGridView.Columns[0].Width = 65;
+            dataGridView.Columns[1].Width = 65;
+            dataGridView.Columns[2].Width = 65;
+            dataGridView.Columns[5].Width = 140;
         }
 
         public void ReadSingleRow(DataGridView dgw, IDataRecord record)
